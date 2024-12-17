@@ -1,0 +1,17 @@
+.title span{
+    color: red;
+}
+
+button{
+    border: none;
+    background-color: blue;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 8px;
+
+}
+/* .title.active{
+    color: orange;
+    border: 2px solid grey;
+    background-color: blue;
+} */
